@@ -1,0 +1,1 @@
+{"filename": "cleaned_duplicates_product_question_details.csv", "timestamp": "2025-05-01T15:42:39.319893", "rows": 15395, "columns": ["cqid", "product_id", "created_at", "category", "deleted_at", "question", "answer", "details", "product_name", "product_industry", "is_outdated", "duplicate_count"]}
